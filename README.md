@@ -14,6 +14,7 @@
   <img src="framework.jpg" alt="Protein Flow Animation" autoplay loop>
 </p>
 
+## 🧩 Introduction
 This is the code base for our paper on [Learning Fused State Representations for Control from Multi-View Observations]. we propose **M**ulti-view **F**usion **S**tate for **C**ontrol (**MFSC**), firstly incorporating bisimulation metrics learning into MVRL to learn task-relevant representations. Furthermore, we propose a multiview-based mask and latent reconstruction auxiliary task that exploits shared information across views and improves MFSC’s robustness in missing views by introducing a mask token.
 
 ## ⚒️ Installation
