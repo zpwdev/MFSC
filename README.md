@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2502.01316-b31b1b?style=flat&logo=arxiv)](https://arxiv.org/pdf/2502.01316)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-orange?style=flat&logo=huggingface)](https://huggingface.co/datasets/Arya87/MFSC_ICML_2025/tree/main)
 [![Checkpoint](https://img.shields.io/badge/Download-Checkpoint-brightgreen?style=flat&logo=google-drive)](https://huggingface.co/datasets/Arya87/MFSC_ICML_2025/tree/main/MFSC_weights)
-[![Results](https://img.shields.io/badge/Results-Training%20Logs-orange?style=flat&logo=render)](https://huggingface.co/datasets/Arya87/MFSC_ICML_2025/tree/main/MFSC_results)
+[![Results](https://img.shields.io/badge/Results-Training%20Logs-purple?style=flat&logo=render)](https://huggingface.co/datasets/Arya87/MFSC_ICML_2025/tree/main/MFSC_results)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue?style=flat&logo=github)](https://github.com/zephyr-base/MFSC)
 
 </div>
