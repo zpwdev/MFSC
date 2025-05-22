@@ -32,7 +32,7 @@ $ bash run.sh
 $ bash run.sh
 
 # CARLA
-bash run_local_carla096.sh
+$ bash run_local_carla096.sh
 ```
 
 ## 🚀 Checkpoints and Original Data
