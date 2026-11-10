@@ -53,4 +53,4 @@ If you find this work useful for your research, please consider citing it.
 Thanks to [Keypoint3D](https://github.com/buoyancy99/unsup-3d-keypoints), [DBC](https://github.com/facebookresearch/deep_bisim4control), [SimSR](https://github.com/bit1029public/SimSR) and [MLR](https://github.com/microsoft/Mask-based-Latent-Reconstruction) for their great work and codebase, which served as the foundation for developing MFSC.
 
 ## 📧 Contact Us
-If you have any question, please feel free to contact us via [zywang0824@bit.edu.cn](mailto:zywang0824@bit.edu.cn).
+If you have any question, please feel free to contact us via [wangzeyu.0824@ruc.edu.cn](mailto:wangzeyu.0824@ruc.edu.cn).
